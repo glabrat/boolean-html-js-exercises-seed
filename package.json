@@ -1,0 +1,13 @@
+{
+  "name": "boolean-html-js-exercises-seed",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "boolean-html-js-exercises"
+  },
+  "author": "Gonzalo Pincheira <g.pincheira.a@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "boolean-html-js-exercises": "github:gpincheiraa/boolean-html-js-exercises"
+  }
+}
