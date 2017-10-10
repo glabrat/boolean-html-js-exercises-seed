@@ -8,6 +8,6 @@
   "author": "Gonzalo Pincheira <g.pincheira.a@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "boolean-html-js-exercises": "^0.7.2"
+    "boolean-html-js-exercises": "^0.7.3"
   }
 }
